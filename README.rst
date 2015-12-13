@@ -11,5 +11,5 @@ This is a Django-1.9 compatible version of https://github.com/django-admin-boots
 Installation
 ------------
 
-1. ``pip install -e git+git://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped ``
+1. ``pip install -e git+git://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped``
 
