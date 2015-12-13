@@ -34,7 +34,7 @@ setup(
         'Django>=1.8',
     ],
     dependencies = [
-    'https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped
+    'https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped'
     ],
     test_suite='django_admin_bootstrapped.runtests.runtests',
     packages=find_packages(),
