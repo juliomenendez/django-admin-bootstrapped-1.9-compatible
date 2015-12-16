@@ -31,7 +31,7 @@ setup(
     classifiers=CLASSIFIERS,
     install_requires=[
         'setuptools',
-        'Django>=1.8,<1.9',
+        'Django>=1.9',
     ],
     dependencies = [
     'https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped'
