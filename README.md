@@ -11,12 +11,14 @@ This is a Django-1.9 compatible version of https://github.com/django-admin-boots
 Installation
 ------------
 
- ``pip install -e git+git://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped``
+```bash
+pip install -e git+git://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped
+```
  
  OR
  
-  ``git clone https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible/
-    cd  django-admin-bootstrapped-1.9-compatible
-    pip install -e .
-  ``
-
+```bash
+git clone https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible
+cd  django-admin-bootstrapped-1.9-compatible
+pip install -e .
+```
